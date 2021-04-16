@@ -16,7 +16,7 @@
     "author": "cic",
     "license": "Apache-2.0",
     "dependencies": {
-        "jsrsasign": "^8.0.12",
+        "jsrsasign": "^10.2.0",
         "package.json": "^2.0.1"
     },
     "devDependencies": {
